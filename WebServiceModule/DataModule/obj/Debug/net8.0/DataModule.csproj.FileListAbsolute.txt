@@ -1,0 +1,9 @@
+D:\WebServiceModule\WebServiceModule\DataModule\bin\Debug\net8.0\DataModule.deps.json
+D:\WebServiceModule\WebServiceModule\DataModule\bin\Debug\net8.0\DataModule.dll
+D:\WebServiceModule\WebServiceModule\DataModule\bin\Debug\net8.0\DataModule.pdb
+D:\WebServiceModule\WebServiceModule\DataModule\obj\Debug\net8.0\DataModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebServiceModule\WebServiceModule\DataModule\obj\Debug\net8.0\DataModule.csproj.CoreCompileInputs.cache
+D:\WebServiceModule\WebServiceModule\DataModule\obj\Debug\net8.0\DataModule.dll
+D:\WebServiceModule\WebServiceModule\DataModule\obj\Debug\net8.0\refint\DataModule.dll
+D:\WebServiceModule\WebServiceModule\DataModule\obj\Debug\net8.0\DataModule.pdb
+D:\WebServiceModule\WebServiceModule\DataModule\obj\Debug\net8.0\ref\DataModule.dll
